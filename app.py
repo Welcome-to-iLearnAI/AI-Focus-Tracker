@@ -845,7 +845,7 @@ c1.success("Focused")
 # Indicates eyes have remained closed
 # for multiple consecutive frames.
 c2.warning("Drowsy — sustained eye closure")
-# --------------------------------------------------
+
 # Distracted Status
 # --------------------------------------------------
 # Red error box
