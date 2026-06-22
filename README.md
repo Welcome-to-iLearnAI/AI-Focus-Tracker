@@ -10,11 +10,11 @@ Built with **Python**, **Streamlit**, **OpenCV**, and **MediaPipe**.
 
 | Focused | Distracted |
 |---|---|
-| ![Focused](screenshots/focused.png) | ![Distracted](screenshots/distracted.png) |
+| ![Focused](focused.png) | ![Distracted](distracted.png) |
 
 | Focused (Blinking) | Drowsy / Eyes Closed |
 |---|---|
-| ![Blinking](screenshots/blinking.png) | ![Drowsy](screenshots/drowsy.png) |
+| ![Blinking](blinking.png) | ![Drowsy](drowsy.png) |
 
 *(These are illustrative mockups of the app's HUD — your actual video will show your own webcam feed with the same overlay style.)*
 
@@ -65,7 +65,10 @@ AI-Focus-Tracker/
 ├── requirements.txt    # Python packages needed to run the app
 ├── README.md           # You are here
 ├── .gitignore          # Keeps venv/, __pycache__, etc. out of git
-└── screenshots/         # Demo images used in this README
+├── focused.png         # Demo image used in this README
+├── distracted.png      # Demo image used in this README
+├── blinking.png        # Demo image used in this README
+└── drowsy.png          # Demo image used in this README
 ```
 
 ---
