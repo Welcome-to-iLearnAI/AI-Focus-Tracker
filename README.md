@@ -1,5 +1,3 @@
-# AI-Focus-Tracker
-
 # 🎯 AI Focus Tracker
 
 A real-time webcam app that watches your eyes and head position, and tells you — instantly — whether you're **Focused**, **Distracted**, or **Drowsy**. No timers, no database, just a live, explainable attention signal powered by computer vision.
